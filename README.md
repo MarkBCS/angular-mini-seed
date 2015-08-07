@@ -26,7 +26,7 @@ npm test
 Run e2e tests (server must be running)
 
 ```
-npm run-script protractor
+npm run protractor
 ```
 
 
