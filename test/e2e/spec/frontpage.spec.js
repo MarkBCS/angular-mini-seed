@@ -1,7 +1,5 @@
 'use strict';
 
-/* https://github.com/angular/protractor/blob/master/docs/toc.md */
-
 describe('AngularMiniSeedApp', function() {
 
   it('should show Hello world!', function() {

@@ -14,3 +14,5 @@ cd angular-mini-seed
 npm start
 ```
 
+goto http://localhost:8000/app/
+
