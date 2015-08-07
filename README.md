@@ -16,3 +16,18 @@ npm start
 
 goto http://localhost:8000/app/
 
+
+Run unit tests
+
+```
+npm test
+```
+
+Run e2e tests (server must be running)
+
+```
+npm run-script protractor
+```
+
+
+
